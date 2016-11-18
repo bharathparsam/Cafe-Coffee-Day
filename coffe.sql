@@ -49,8 +49,8 @@ CREATE TABLE IF NOT EXISTS `orders` (
 --
 
 INSERT INTO `orders` (`orderid`, `choosebeans`, `type`, `numberofbags`, `arrivaldate`, `catalog`, `gift`, `name`, `address`, `city`, `state`, `zip`, `phone`, `comments`) VALUES
-('16474242', 'kenyan', 'ground', 5, '2015-10-20', '', NULL, 'Pavan Powani', 'VIT VEllore', 'vellore', 'Tamil Nadu', 636007, 2147483647, 'Send soon'),
-('40721917', 'kenyan', 'whole', 3, '2015-10-20', 'catalog', NULL, 'Shridharshan Raajadhasapan', '47,Chennakrishnapuram', 'Salem', 'Tamil Nadu', 636007, 2147483647, 'Comments!!');
+('16474242', 'kenyan', 'ground', 5, '2015-10-20', '', NULL, 'Sharth Parsam', 'VIT VEllore', 'vellore', 'Tamil Nadu', 632014, 2147483647, 'Send soon'),
+('40721917', 'kenyan', 'whole', 3, '2015-10-20', 'catalog', NULL, 'Bharath Parsam', '21,Chittoor', 'Palamaner', 'Andhra Pradesh', 632014, 2147483647, 'Comments!!');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
